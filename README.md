@@ -1,5 +1,5 @@
 # Machine-Learning-classifica-o-com-SKLearn
-Curso da aluna de Machine Learning: classificação com SKLearn
+Curso da Alura de Machine Learning: classificação com SKLearn
 
 Nesse primeiro projeto, aprendemos esse fluxo tradicional, e utilizamos uma medida para analisar o número de acertos (a acurácia) em classificações - que queríamos, obviamente, maximizar.
 
